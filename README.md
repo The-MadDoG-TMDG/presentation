@@ -1,7 +1,7 @@
 # ABOUT
 In addition to a github presentation, here is my organization and its purpose
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to all! </br> I'm The MadDoG, Technician from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Toulouse, France</b>, currently working in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>CG31, Toulouse</b>. </p>
+<p>Welcome to all! </br> I'm The MadDoG, Technician from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> France</b>, currently working in <b>CG31, Toulouse</b>. </p>
 <h3>Things I code with</h3>
 <p> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
