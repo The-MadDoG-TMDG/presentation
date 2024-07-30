@@ -13,7 +13,6 @@ In addition to a github presentation, here is my organization and its purpose
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   
 # Project
-
 Yes, we build our projects on GitHub, in fact we have been doing so since its inception, that's when we made our first commit.
 Since then, we've pushed over 2.5 million commits, opened over a million issues, submitted around 650,000 pull requests in 4357 repositories from over 50 countries 🤯.
 But that's just us, we're proud to be part of the work of millions of developers, companies and robots across the solar system
