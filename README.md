@@ -1,5 +1,5 @@
 # About
-Here is my organization and its purpose
+My organization and its purpose
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 <p>Welcome to all! </br> I'm The MadDoG, Technician from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> France</b>, currently working in <b>CG31, Toulouse</b>. </p>
 <h3>Things I code with</h3>
