@@ -20,7 +20,7 @@ But that's just us, we're proud to be part of the work of millions of developers
 # 🍿 An interconnected community,
 The open source community is the 💗 heart of GitHub and is fundamental to how we build software today, see for yourself:
 GitHub Sponsors have helped support over 5,000 people and projects around the world 🌍
-Open source projects on GitHub received 218 million contributions 🚀 in the last year alone
+Open source projects on GitHub received 218 million contributions 🚀 in the new year.
 Every minute a developer creates a new version 🏄 for a public project on GitHub
 Now that we're talking about the important stuff ☝️, do you contribute to open source? Yes? Okay, you rock!
 
