@@ -25,7 +25,7 @@ Every minute a developer creates a new version 🏄 for a public project on GitH
 Now that we're talking about the important stuff ☝️, do you contribute to open source? Yes? Okay, you rock!
 
 # 🎸 Alternatively, we can help you get started,
-Open source software is created by people like you. Learn more about how to contribute.
+Open source software is created by people like you.
 
 # 🦦 Contribute to the ecosystem,
 We contribute to the tools 🔧 we rely on to build and run GitHub, while maintaining 🧙‍♂️ our own open source projects like:
