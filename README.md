@@ -14,7 +14,7 @@ My organization and all my purpose
   
 # Project
 Yes, we build our projects on GitHub, in fact we have been doing so since its inception, that's when we made our first commit.
-Since then, we've pushed over 2.5 million commits, opened over a million issues, submitted around 650,000 pull requests in 4357 repositories from over 50 countries 🤯.
+Since then, we've pushed over 2 million commits, opened over a million issues, submitted around 650,000 pull requests in 4357 repositories from over 50 countries 🤯.
 But that's just us, we're proud to be part of the work of millions of developers, companies and robots across the solar system
 
 # 🍿 An interconnected community,
